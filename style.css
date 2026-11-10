@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.broccoli {
+    color: #00ff00;
+    border-radius: 500px;
+    background-color: grey !important;
+
+}
+
+.mushroom {
+    font-family: fantasy;
+    color: white;
+}
